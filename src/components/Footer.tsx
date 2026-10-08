@@ -25,7 +25,7 @@ export default function Footer() {
               <span className="flex h-9 w-9 items-center justify-center rounded-xl bg-gradient-to-br from-primary-500 to-primary-700 text-white shadow-lg shadow-primary-600/30">
                 <Heart className="h-5 w-5" fill="currentColor" />
               </span>
-              <span className="font-display tracking-tight">Lenus</span>
+              <p className="font-display tracking-tight">Fit <span className='bg-primary-400 text-white'>us</span></p>
             </a>
             <p className="mt-4 max-w-xs text-sm leading-relaxed text-neutral-500">
               The partner for growth to the world's best health and fitness coaches.
@@ -70,7 +70,7 @@ export default function Footer() {
         {/* Bottom bar */}
         <div className="mt-14 flex flex-col items-center justify-between gap-4 border-t border-neutral-200 pt-8 sm:flex-row">
           <p className="text-sm text-neutral-400">
-            © {new Date().getFullYear()} Lenus. All rights reserved.
+            © {new Date().getFullYear()} Fitus. All rights reserved.
           </p>
           <div className="flex flex-wrap items-center gap-6">
             <a href="#" className="text-sm text-neutral-400 transition-colors hover:text-primary-600">

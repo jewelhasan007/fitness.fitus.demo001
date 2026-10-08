@@ -18,7 +18,7 @@ const testimonials: Testimonial[] = [
       'https://images.pexels.com/photos/37963582/pexels-photo-37963582.jpeg?auto=compress&cs=tinysrgb&w=200&h=200&fit=crop',
     rating: 5,
     quote:
-      "Lenus completely transformed my coaching business. The platform handles everything from meal plans to client tracking, and the growth team helped me triple my client base in under a year. I couldn't imagine running my business without it.",
+      "Fitus completely transformed my coaching business. The platform handles everything from meal plans to client tracking, and the growth team helped me triple my client base in under a year. I couldn't imagine running my business without it.",
     metric: { value: '3.2x', label: 'Client growth in 10 months' },
   },
   {
@@ -60,11 +60,11 @@ export default function Testimonials() {
           </span>
           <h2 className="mt-4 font-display text-4xl font-extrabold tracking-tight text-neutral-900 sm:text-5xl text-balance">
             Coaches who scaled with{' '}
-            <span className="gradient-text">Lenus</span>
+            <span className="gradient-text">Fitus</span>
           </h2>
           <p className="mt-5 text-lg leading-relaxed text-neutral-600">
             Real stories from health and fitness coaches who took their online business
-            to the next level with the Lenus platform.
+            to the next level with the Fitus platform.
           </p>
         </div>
 

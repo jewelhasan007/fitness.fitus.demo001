@@ -45,7 +45,7 @@ export default function Academy() {
           <div className="flex flex-col gap-6">
             <span className="inline-flex w-fit items-center gap-2 rounded-full bg-primary-500/15 px-4 py-1.5 text-sm font-semibold text-primary-300">
               <GraduationCap className="h-4 w-4" />
-              Lenus Academy
+              Fitus Academy
             </span>
             <h2 className="font-display text-4xl font-extrabold leading-tight tracking-tight text-white sm:text-5xl text-balance">
               The world's first certified education for online coaches

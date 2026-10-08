@@ -59,7 +59,7 @@ export default function GrowthTeam() {
             <span className="gradient-text">power your growth</span>
           </h2>
           <p className="mt-5 text-lg leading-relaxed text-neutral-600">
-            At Lenus, you don't just get software — you get a dedicated team of growth
+            At Fitus, you don't just get software — you get a dedicated team of growth
             experts committed to scaling your coaching business every step of the way.
           </p>
         </div>

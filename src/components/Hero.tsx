@@ -58,7 +58,7 @@ export default function Hero() {
           </h1>
 
           <p className="max-w-xl text-lg leading-relaxed text-primary-100/80 animate-fade-in-up" style={{ animationDelay: '0.1s' }}>
-            Lenus is the partner for growth to the world's best health and fitness
+            Fitus is the partner for growth to the world's best health and fitness
             coaches. Get access to the platform, education, and dedicated growth team
             you need to scale your online coaching business.
           </p>

@@ -31,7 +31,7 @@ const features: Feature[] = [
     icon: Dumbbell,
     title: 'Swift Meal & Exercise Plans',
     description:
-      'Access the Lenus library of recipes, activities and exercises crafted by in-house nutrition and holistic health experts.',
+      'Access the Fitus library of recipes, activities and exercises crafted by in-house nutrition and holistic health experts.',
     image:
       'https://images.pexels.com/photos/30392962/pexels-photo-30392962.jpeg?auto=compress&cs=tinysrgb&w=900',
     features: ['1,000+ recipe library', 'Exercise database', 'Special diet support'],
@@ -161,7 +161,7 @@ export default function PlatformFeatures() {
           </h2>
           <p className="mt-5 text-lg leading-relaxed text-neutral-600">
             Get access to all the tools and in-house expertise needed to run and grow your
-            online coaching business. With the Lenus platform, a world of opportunity awaits.
+            online coaching business. With the Fitus platform, a world of opportunity awaits.
           </p>
         </div>
 

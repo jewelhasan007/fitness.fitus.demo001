@@ -31,7 +31,7 @@ export default function Navbar() {
           <span className="flex h-9 w-9 items-center justify-center rounded-xl bg-gradient-to-br from-primary-500 to-primary-700 text-white shadow-lg shadow-primary-600/30">
             <Heart className="h-5 w-5" fill="currentColor" />
           </span>
-          <span className="font-display tracking-tight">Lenus</span>
+          <p className="font-display tracking-tight">Fit <span className='bg-primary-400 text-white'>us</span></p>
         </a>
 
         <div className="hidden items-center gap-8 lg:flex">
